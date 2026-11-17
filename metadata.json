@@ -1,0 +1,6 @@
+{
+  "name": "Khám Phá OCOP Tây Ninh - Cẩm Nang Số Tương Tác",
+  "description": "Phần mềm tổng hợp hệ thống học tập, điều tra số, bản đồ tương tác, kho sản phẩm và trò chơi khám phá sản phẩm OCOP Tây Ninh dành cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
